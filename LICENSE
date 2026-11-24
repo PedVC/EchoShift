@@ -1,38 +1,29 @@
-Echo Shift — Fragments of Time / Fragmentos do Tempo
-Copyright (c) 2026 PedVC. All rights reserved. / Todos os direitos reservados.
+Echo Shift — Fragmentos do Tempo
+Copyright (c) 2026 the author of Echo Shift (owner of this GitHub repository)
 
-=====================================================================
-ENGLISH
-=====================================================================
+Licensed under the PolyForm Noncommercial License 1.0.0:
+https://polyformproject.org/licenses/noncommercial/1.0.0
 
-Anyone may download, play, copy and share this game and its files, free of
-charge.
+Any commercial use — including selling this game, or selling a modified
+version of it — requires the author's prior written permission.
+Contact: open an Issue in this game's GitHub repository.
 
-The following is NOT permitted without prior written permission from the
-author:
+----------------------------------------------------------------------------
+Resumo em português (informativo; o texto que vale é a licença acima)
 
-- Modifying, adapting or creating derivative works of the game, its code,
-  design or other content.
-- Distributing modified versions.
-- Selling the game or using it commercially.
+Podes, sem pedir autorização e sem teres de dar crédito:
+  - jogar, copiar e partilhar o jogo;
+  - modificá-lo e partilhar as tuas versões modificadas,
+desde que seja para fins não comerciais e que quem receber uma cópia
+receba também esta licença (ou o link para ela).
 
-THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL
-THE AUTHOR BE LIABLE FOR ANY CLAIM OR DAMAGES ARISING FROM ITS USE.
+Não podes, sem autorização prévia e por escrito do autor:
+  - vender o jogo ou versões modificadas dele;
+  - usá-lo de qualquer outra forma comercial.
 
-=====================================================================
-PORTUGUÊS
-=====================================================================
+Para uso comercial, contacta o autor abrindo uma Issue no repositório
+deste jogo no GitHub.
 
-Qualquer pessoa pode descarregar, jogar, copiar e partilhar este jogo e os
-respetivos ficheiros, gratuitamente.
-
-NÃO é permitido, sem autorização prévia e por escrito do autor:
-
-- Modificar, adaptar ou criar obras derivadas do jogo, do código, do design
-  ou dos restantes conteúdos.
-- Distribuir versões modificadas.
-- Vender o jogo ou utilizá-lo para fins comerciais.
-
-A OBRA É FORNECIDA "TAL COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO. EM CASO
-ALGUM O AUTOR SERÁ RESPONSÁVEL POR QUAISQUER RECLAMAÇÕES OU DANOS DECORRENTES
-DA SUA UTILIZAÇÃO.
+O jogo usa o Godot Engine (https://godotengine.org), distribuído sob a
+licença MIT. O aviso de direitos de autor e a licença do Godot estão
+incluídos no próprio motor (index.wasm.gz).
